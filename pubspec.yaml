@@ -1,0 +1,29 @@
+name: flutter_adcontent
+description: "Flutter 穿山甲-内容输出，支持「短剧」和「小视频」"
+version: 0.0.1
+homepage: https://flutterads.github.io/site/
+repository: https://github.com/FlutterAds/flutter_adcontent
+
+environment:
+  sdk: ">=2.12.0 <4.0.0"
+  flutter: ">=2.5.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  plugin_platform_interface: ^2.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+# The following section is specific to Flutter packages.
+flutter:
+  plugin:
+    platforms:
+      android:
+        package: com.zero.flutter_adcontent
+        pluginClass: FlutterAdcontentPlugin
+      ios:
+        pluginClass: FlutterAdcontentPlugin
