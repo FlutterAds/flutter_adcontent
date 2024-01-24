@@ -30,7 +30,7 @@
 |[flutter_adspark](https://github.com/FlutterAds/flutter_adspark)|巨量广告/穿山甲的广告监测、增长分析、归因上报、事件管理 Flutter 版插件|
 |[flutter_adcontent](https://github.com/FlutterAds/flutter_adcontent)|穿山甲内容输出 Flutter 版插件，支持短剧和小视频|
 
-## App 广告变现群
+## 💬 App 广告变现群
 
 - 插件问题解答
 - 变现玩法交流
@@ -38,7 +38,7 @@
 - 大盘趋势推送
 - 版本更新推送
 
-> 因微信群入群限制，请添加个人微信备注：广告变现群
+> 因微信群入群限制，请添加个人微信备注：`变现群`，我拉你进群。
 
 <img src="https://flutterads.github.io/site/wechat.webp" alt="wechat:toponelan" width="160"/>
 
