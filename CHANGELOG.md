@@ -1,3 +1,7 @@
+## 0.0.2
+
+* 更新描述
+
 ## 0.0.1
 
-* TODO: Describe initial release.
+* 初始化版本

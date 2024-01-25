@@ -4,8 +4,8 @@
 #
 Pod::Spec.new do |s|
   s.name             = 'flutter_adcontent'
-  s.version          = '0.0.1'
-  s.summary          = 'Flutter 穿山甲-内容输出，支持「短剧」和「小视频」'
+  s.version          = '0.0.2'
+  s.summary          = '一款优质的穿山甲内容输出插件，支持「短剧」和「小视频」'
   s.description      = <<-DESC
   Flutter 穿山甲-内容输出，支持「短剧」和「小视频」
                        DESC

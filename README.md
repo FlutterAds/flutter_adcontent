@@ -2,7 +2,7 @@
 <a href="https://github.com/FlutterAds"><img src="https://raw.githubusercontent.com/FlutterAds/site/master/logo/flutterads_logo.png" alt="logo"/></a>
 </p>
 <h3 align="center">Flutter AdContent</h3>
-<h5 align="center">一款优质的广告监测、增长分析、归因上报、事件管理插件（巨量广告、穿山甲）</h5>
+<h5 align="center">一款优质的穿山甲内容输出插件，支持「短剧」和「小视频」</h5>
 
 <p align="center">
 <a href="https://pub.dev/packages/flutter_adcontent"><img src=https://img.shields.io/badge/version-v0.0.1-success></a>
