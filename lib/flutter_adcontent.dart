@@ -1,8 +1,13 @@
 
-import 'flutter_adcontent_platform_interface.dart';
+import 'dart:async';
+
+import 'package:flutter/services.dart';
 
 class FlutterAdcontent {
-  Future<String?> getPlatformVersion() {
-    return FlutterAdcontentPlatform.instance.getPlatformVersion();
+  static const MethodChannel _channel = MethodChannel('flutter_adcontent');
+
+  static Future<String?> get platformVersion async {
+    final String? version = await _channel.invokeMethod('getPlatformVersion');
+    return version;
   }
 }
