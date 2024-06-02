@@ -5,7 +5,7 @@
 <h5 align="center">一款优质的穿山甲内容输出插件，支持「短剧」和「小视频」</h5>
 
 <p align="center">
-<a href="https://pub.dev/packages/flutter_adcontent"><img src=https://img.shields.io/badge/version-v0.0.1-success></a>
+<a href="https://pub.dev/packages/flutter_adcontent"><img src=https://img.shields.io/badge/version-v0.4.0-success></a>
 <a href="https://github.com/FlutterAds/flutter_adcontent"><img src=https://img.shields.io/badge/platform-iOS%20%7C%20Android-brightgreen></a>
 </p>
 <p align="center">
@@ -17,7 +17,8 @@
 - 📺 短剧
 - 📱 小视频
 - 🎮 广告变现
-- 支付（暂未支持）
+- 🤖 用户系统打通
+- 💰 支付（暂未支持）
 
 ## FlutterAds 广告插件系列
 
