@@ -4,12 +4,12 @@
 #
 Pod::Spec.new do |s|
   s.name             = 'flutter_adcontent'
-  s.version          = '0.0.3'
+  s.version          = '1.0.0'
   s.summary          = '一款优质的穿山甲内容输出插件，支持「短剧」和「小视频」'
   s.description      = <<-DESC
   Flutter 穿山甲-内容输出，支持「短剧」和「小视频」
                        DESC
-  s.homepage         = 'https://github.com/FlutterAds'
+  s.homepage         = 'https://flutterads.top'
   s.license          = { :file => '../LICENSE' }
   s.author           = { 'FlutterAds' => 'https://github.com/FlutterAds' }
   s.source           = { :path => '.' }

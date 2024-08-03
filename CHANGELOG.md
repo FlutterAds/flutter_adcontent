@@ -1,13 +1,20 @@
+## 1.0.0
+
+* 🚀 [仅提供 Pro 版本](https://flutterads.top/)
+* 🎉 【独家支持】可 Widget 组件嵌入Flutter 页面
+* 🎨 【独家支持】可自定义 UI 样式，与业务完美契合
+* 📦 【独家支持】广告事件回调全局打通
+
 ## 0.0.3
 
-* 🚀 [仅提供 Pro 版本](https://flutterads.github.io/site/)
+* 🚀 [仅提供 Pro 版本](https://flutterads.top/)
 * 🤖 支持登录、登出功能(可与自己系统用户关联)
 * 🌟 优化多端适配性，保证 UI 一致性
 * 📦 修改示例 App 名字为【短剧小视频】
 
 ## 0.0.2
 
-* 🚀 [仅提供 Pro 版本](https://flutterads.github.io/site/)
+* 🚀 [仅提供 Pro 版本](https://flutterads.top/)
 * 📦 支持与【GroMorePro、AdSpark Pro】全完兼容
 * 🌟 支持 Android平台
 * 🌟 支持短剧聚合页面
@@ -25,4 +32,4 @@
 
 ## 0.0.1
 
-* 开源版本无功能，🚀 [仅提供 Pro 版本](https://flutterads.github.io/site/)
+* 开源版本无功能，🚀 [仅提供 Pro 版本](https://flutterads.top/)
