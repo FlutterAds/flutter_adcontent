@@ -2,13 +2,19 @@
 <h5 align="center">一款优质的穿山甲内容输出插件，支持「短剧」和「小视频」，可加入(激励视频、信息流广告、视频流广告)</h5>
 
 <p align="center">
-<a href="https://pub.dev/packages/flutter_adcontent"><img src="https://img.shields.io/pub/v/flutter_adcontent?logo=dart"/>
-<a href="https://flutterads.top/"><img src="https://img.shields.io/badge/OS-iOS%20%7C%20Android-blue?logo=preact"/> 
-<a href="https://flutterads.top/"><img src="https://img.shields.io/badge/Pro-v1.2.1-success?logo=flutter&logoColor=FFD700"/>
-<a href="https://flutterads.top/"><img src="https://img.shields.io/badge/Site-FlutterAds-success?logo=webtrees&logoColor=FFD700"/>
-</p>
-<p align="center">
-<a href="https://flutterads.top/"><img src="https://raw.githubusercontent.com/FlutterAds/.github/main/gromore_pro_site.png" alt="gromore"/></a>
+<a href="https://pub.dev/packages/flutter_adcontent">
+<img src="https://img.shields.io/pub/v/flutter_adcontent?logo=dart"/>
+<img src="https://img.shields.io/badge/OS-iOS%20%7C%20Android-blue?logo=preact"/>
+</a>
+<a href="https://github.com/FlutterAds/flutter_adcontent">
+<img src="https://github.com/FlutterAds/flutter_adcontent/actions/workflows/flutter.yml/badge.svg">
+<img src=https://img.shields.io/github/stars/FlutterAds/flutter_adcontent?color=brightgreen>
+</a>
+<a href="https://flutterads.top/">
+<img src="https://img.shields.io/badge/Pro-v3.5.0-success?logo=flutter&logoColor=FFD700"/>
+<a href="https://flutterads.top/">
+<img src="https://img.shields.io/badge/Site-FlutterAds-success?logo=webtrees&logoColor=FFD700"/>
+</a>
 </p>
 
 ## 💻 支持平台
