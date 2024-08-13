@@ -1,5 +1,5 @@
 <h1 align="center">Flutter AdContent Pro</h1>
-<h5 align="center">一款优质的穿山甲内容输出插件，支持「短剧」和「小视频」，可加入(激励视频、信息流广告、视频流广告)</h5>
+<h5 align="center">一款优质的穿山甲内容输出插件，支持「短剧」和「小视频」，可加入(激励视频、视频流广告、信息流广告)</h5>
 
 <p align="center">
 <a href="https://pub.dev/packages/flutter_adcontent">
@@ -11,7 +11,7 @@
 <img src=https://img.shields.io/github/stars/FlutterAds/flutter_adcontent?color=brightgreen>
 </a>
 <a href="https://flutterads.top/">
-<img src="https://img.shields.io/badge/Pro-v3.5.0-success?logo=flutter&logoColor=FFD700"/>
+<img src="https://img.shields.io/badge/Pro-v1.4.0-success?logo=flutter&logoColor=FFD700"/>
 <a href="https://flutterads.top/">
 <img src="https://img.shields.io/badge/Site-FlutterAds-success?logo=webtrees&logoColor=FFD700"/>
 </a>
@@ -19,7 +19,8 @@
 
 ## 💻 支持平台
 
-- 穿山甲-内容输出
+- 穿山甲-短剧
+- 穿山甲-小视频
 - 安卓
 - iOS
 
@@ -37,11 +38,13 @@
 
 ## 🎬 示例效果
 
-|聚合推荐|聚合剧场|短剧详情|短剧滑滑流|
+|短剧剧场|短剧滑滑流|短剧详情|激励解锁|
 |--|--|--|--|
-| <img src='https://flutterads.top/imgs/adcontent/img_theater_1.webp'/> | <img src='https://flutterads.top/imgs/adcontent/img_theater_2.webp'/> | <img src='https://flutterads.top/imgs/adcontent/img_detail.webp'/>| <img src='https://flutterads.top/imgs/adcontent/img_theater_3.webp'/>|
-|推荐和所有|短剧详情|短剧分类|短剧搜素|
-| <img src='https://flutterads.top/imgs/adcontent/img_theater_11.webp'/> | <img src="https://flutterads.top/imgs/adcontent/img_detail.webp"/>| <img src='https://flutterads.top/imgs/adcontent/img_theater_12.webp'/>| <img src='https://flutterads.top/imgs/adcontent/img_theater_13.webp'/> |
+| <img src='https://flutterads.top/imgs/adcontent/img_theater_widget.webp'/> | <img src='https://flutterads.top/imgs/adcontent/img_theater_widget2.webp'/> | <img src='https://flutterads.top/imgs/adcontent/img_detail.webp'/>| <img src='https://flutterads.top/imgs/adcontent/img_detail_reward.webp'/>|
+|推荐和所有|短剧分类|短剧搜素|观看历史|
+| <img src='https://flutterads.top/imgs/adcontent/img_theater_11.webp'/> | <img src="https://flutterads.top/imgs/adcontent/img_theater_12.webp"/>| <img src='https://flutterads.top/imgs/adcontent/img_theater_13.webp'/>| <img src='https://flutterads.top/imgs/adcontent/img_theater_14.webp'/> |
+|全屏模式|宫格模式|双列模式|广告展示|
+| <img src='https://flutterads.top/imgs/adcontent/img_video_01.webp'/> | <img src='https://flutterads.top/imgs/adcontent/img_video_03.webp'/> | <img src='https://flutterads.top/imgs/adcontent/img_video_04.webp'/>| <img src='https://flutterads.top/imgs/adcontent/img_video_02.webp'/>| 
 
 
 ## 📃 接入文档
